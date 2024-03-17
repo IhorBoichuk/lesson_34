@@ -12,8 +12,6 @@ Install the required dependencies listed in requirements.txt by running:
 pip install -r requirements.txt  
 python app.py  
 
-# Modeling Info  
-The project utilizes the Ultralytics YOLO model for object detection. This model is pre-trained on a large dataset and capable of detecting various objects in images.  
 
 # Modeling Info 
 The project utilizes the Ultralytics YOLO model for object detection. This model is pre-trained on a large dataset and capable of detecting various objects in images. 
